@@ -1,6 +1,6 @@
 /*******************************************
 Statement - Print Hello World
-Programmer - Vineet Choudhary
+Programmer - 
 Written For - http://developerinsider.in
 ********************************************/
 
