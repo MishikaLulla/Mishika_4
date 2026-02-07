@@ -1,4 +1,4 @@
---About
+
 
 This repository contains C and C++ programs written while learning and practicing the fundamentals of the C programming language. It focuses on building a strong understanding of core concepts and problem-solving skills.
 
